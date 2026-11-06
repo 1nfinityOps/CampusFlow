@@ -129,7 +129,8 @@ Se emplea **Git** para el control de versiones local y **GitHub** como repositor
 El backend es 100% *Serverless* soportado por **Google Cloud (Firebase)**, garantizando disponibilidad, reglas de seguridad activas (`allow read, write: if true;`) y almacenamiento distribuido.
 
 ### 7.11. Enlace del repositorio en funcionamiento
-*(Coloca aquí el enlace real a tu repositorio público de GitHub. Ejemplo: https://github.com/tu-usuario/CampusFlow)*
+El código fuente completo y actualizado de la aplicación móvil se encuentra alojado y disponible en el siguiente repositorio público de GitHub:
+https://github.com/1nfinityOps/CampusFlow
 
 ## 8. Conclusiones
 1. **Se implementó** un sistema de Autenticación seguro mediante correo y contraseña, incluyendo la funcionalidad de recuperación de clave vía correo electrónico.
